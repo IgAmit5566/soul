@@ -21,7 +21,8 @@ MONGO_URI = 'mongodb+srv://admin:kpR4ObsewTySq48I@test.zeqrmgb.mongodb.net/test_
 FORWARD_CHANNEL_ID = -100
 CHANNEL_ID = -100
 error_channel_id = -100
-CHANNEL_ID = 2234998997
+channel_id = 2234998997
+admin_id = 1344100538
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
